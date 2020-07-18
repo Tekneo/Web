@@ -1,6 +1,6 @@
 This is a API implemented in Python 3 and Flask.
 
-To use apy.py file, 
+To use api.py file, 
   1. Open Terminal
   2. Clone repo using command : git clone https://github.com/Tekneo/Web.git
   2. cd Web/Python API
@@ -8,5 +8,5 @@ To use apy.py file,
   4. source bin/activate.fish 
   5. python3 api.py
 
-!Warning Do not use this for production. Gunicorn or other production servers will be a better alternative.
+!Warning: Do not use flask for production/deployment. Gunicorn or other production servers will be a better alternative.
 
